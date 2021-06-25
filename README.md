@@ -1,5 +1,5 @@
-### Hi, Im Rosa Rivas 👋
-
+## Hi, Im Rosa Rivas 👋
+### Stack
 
 
 
