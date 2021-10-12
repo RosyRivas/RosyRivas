@@ -1,5 +1,5 @@
 ## Hi, Im Rosa Rivas 👋
-### Stack
+### 
 ###<a><i class="fab fa-laravel"></i><a/>
 
 
