@@ -1,6 +1,4 @@
 ## Hi, Im Rosa Rivas 👋
-### 
-###<a><i class="fab fa-laravel"></i><a/>
 
 
 <!--
