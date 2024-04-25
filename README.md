@@ -1,6 +1,9 @@
 ## Hi, Im Rosa Rivas 👋
-
-
+##Skills
+<!-- Iconos de Font Awesome -->
+<i class="fab fa-html5"></i> HTML
+<i class="fab fa-css3-alt"></i> CSS
+<i class="fab fa-js"></i> JavaScript
 <!--
 **RosyRivas/RosyRivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
